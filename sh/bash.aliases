@@ -1,0 +1,24 @@
+# enable color support of ls and also add handy aliases
+alias ls='ls --color=auto'
+    
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+
+alias vi="vim "
+alias gco="git checkout "
+alias gbr="git branch "
+
+
+alias droxul="/home/jgi/x/droxul/dropbox_uploader.sh "
+#alias droxul="~/apps/droxul/node_modules/droxul/dropbox_uploader.sh "
+
+## shell alias Search large file  ##
+alias ducks='du -cks * | sort -rn | head'
+
+alias dff="df -h / /home /usr /srv /opt /data"
+
+
+alias countfiles="du -a . | wc -l" # Count files in the current dir
