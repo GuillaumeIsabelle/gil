@@ -1,5 +1,5 @@
 {
-  "name": "gil",
+  "name": "glic",
   "version": "1.0.0",
   "description": "GI Line Kit - Commanding the computer with Lines is true power for creating",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuillaumeIsabelle/gil.git"
+    "url": "git+https://github.com/GuillaumeIsabelle/glic.git"
   },
   "keywords": ["cli"],
   "author": "Guillaume Isabelle",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuillaumeIsabelle/gil/issues"
+    "url": "https://github.com/GuillaumeIsabelle/glic/issues"
   },
-  "homepage": "https://github.com/GuillaumeIsabelle/gil#readme"
+  "homepage": "https://github.com/GuillaumeIsabelle/glic#readme"
 }
